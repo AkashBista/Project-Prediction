@@ -1,2 +1,5 @@
 # Project-Prediction
-Banking Customer Churn Prediction and Segmentation.
+## Banking Customer Churn Prediction and Segmentation.
+Customer churn prediction is an important issue in banking industry and has gained attention over the years. The identification of loyal customers can be done through efficient predictive models. By allocation of dedicated resources to the retention of these customers would control the flow of dissatisfied consumers thinking to leave the company. This project uses Multi-layer Perceptron Neural Network approach for prediction of customers intending to switch over to other. This model works on multiple attributes like demographic data, behavior data, billing information, credit card information and usage patterns from industry data set. In contrast with other prediction techniques, the results from Multi-layer Perceptron Artificial Neural Networks (MLP-ANN) based approach could predict the churn with higher accuracy. 
+### Keyword: Customer Churn, Predictive models, Multi-Layer Perceptron Artificial Neural Network.
+
